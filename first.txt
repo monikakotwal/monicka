@@ -1,2 +1,3 @@
 Hello Git
-Today is 10th feb.and today class is git hub
+Today is 10th feb.and
+ today class is git hub
